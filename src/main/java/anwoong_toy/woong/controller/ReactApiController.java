@@ -8,6 +8,6 @@ public class ReactApiController {
 
 	@GetMapping("/react/api")
 	public String reactApi() {
-		return "react API ~~";
+		return "react API 22 ~~";
 	}
 }
